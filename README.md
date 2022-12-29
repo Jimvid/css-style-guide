@@ -166,8 +166,7 @@ CSS class.
 document.querySelector('.js-popup').toggle();
 ```
 
-However this does not mean JS can not use styling classes at all. It can for example be used to toggle different classes  
-like modifiers:
+However this does not mean JS can not use styling classes at all. It can for example be used to toggle different classes like modifiers:
 
 
 ```javascript
